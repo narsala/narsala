@@ -1,6 +1,6 @@
 ## Welcome to my Profile! 👋
 
-### My name is **Noah Arsala** and I am a first year ***Software Engineering*** student at **UC Irvine**!
+### My name is **Noah Arsala** and I am a second year ***Software Engineering*** student at **UC Irvine**!
 
 I am from Sacramento, California!
 
