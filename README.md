@@ -2,7 +2,7 @@
 
 ### My name is **Noah Arsala** and I am a second year ***Software Engineering*** student at **UC Irvine**!
 
-I am from Sacramento, California!
+I am from Elk Grove, California!
 
 I have a huge interest in web/app development, and I mostly have focused on front end work throughout my periods of working on projects. However, I am very interested in backend as well. I actually am learning/practicing full stack team-based development by working with [Commit the Change at UC Irvine](https://github.com/ctc-uci) as a **blueprint project developer!**
 
