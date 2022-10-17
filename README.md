@@ -4,7 +4,7 @@
 
 I am from Elk Grove, California!
 
-I have a huge interest in web/app development, and I mostly have focused on front end work throughout my periods of working on projects. However, I am very interested in backend as well. I actually am learning/practicing full stack team-based development by working with [Commit the Change at UC Irvine](https://github.com/ctc-uci) as a **blueprint project developer!**
+I have a huge interest in web/app development, and I mostly have focused on front end work throughout my periods of working on projects. However, I am very interested in backend as well. I actually am learning/practicing full stack team-based development by working with [Commit the Change at UC Irvine](https://github.com/ctc-uci) as a **project developer!**
 
 Currently, I am working with HTML, CSS, Javascript, and Reactnative on my projects.
 
